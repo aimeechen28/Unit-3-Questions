@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Q3_Bin
+comment0.text=To\ convert\ from\ a\ base-10\ integer\ to\ its\ base-2\ (binary)\ equivalent,\ the\ number\ is\ divided\ by\ttwo,\ and\ the\ remainder\ is\ the\ \n\ least-significant\ bit.\ The\ integer\ result\ is\tagain\ divided\ by\ two,\ its\ remainder\ is\ the\ next\tleast\ significant\ bit.\ This\t\n\ process\ repeats\ until\ the\ quotient\ becomes\ zero.\ Write\ a\ method\ that\treads\ a\tpositive\ integer\ from\ the\ terminal,\ and\tprints\ out\ the\t\nbinary\ equivalent\ using\ the\tabove\ algorithm.\ You\ can\ use\ String\ and\tthe\ concatenation\ operator\ to\ store\ \nthe\tremainders\ as\ they\ are\ produced\ in\ the\ correct\ order.
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=java.lang.String\ neww(java.lang.String)
+numComments=3

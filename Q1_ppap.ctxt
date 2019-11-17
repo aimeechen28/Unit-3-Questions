@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Q1_ppap
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=object1\ object2
+comment2.target=java.lang.String\ words(java.lang.String,\ java.lang.String)
+numComments=3
